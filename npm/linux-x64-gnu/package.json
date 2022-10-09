@@ -1,5 +1,5 @@
 {
-  "name": "xid-js-linux-x64-gnu",
+  "name": "@stackcraft/xid-js-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"

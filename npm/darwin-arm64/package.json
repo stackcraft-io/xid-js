@@ -1,5 +1,5 @@
 {
-  "name": "xid-js-darwin-arm64",
+  "name": "@stackcraft/xid-js-darwin-arm64",
   "version": "0.0.0",
   "os": [
     "darwin"
