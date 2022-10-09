@@ -1,5 +1,5 @@
 {
-  "name": "@stackcraft-io/xid-js",
+  "name": "@stackcraft.io/xid-js",
   "version": "0.1.0",
   "main": "index.js",
   "types": "index.d.ts",
