@@ -1,7 +1,10 @@
-import test from 'ava'
+import test from "ava";
 
-import { sum } from '../index.js'
+import { one, many } from "../index.js";
 
-test('sum from native', (t) => {
-  t.is(sum(1, 2), 3)
-})
+test("xid from native", (t) => {
+	t.is(typeof one(), "string");
+
+	t.is(Array.isArray(many(10)), true);
+	t.is(many(10).length === 10, true);
+});
